@@ -5,6 +5,8 @@ Efficiently estimate a two-way fixed effects model based on Somaini and Wolak (2
 
 Algorithm to efficiently estimate a two-way fixed effects model based on Somaini and Wolak (2015) Use xtreg2way (In) With R Software
 
+https://www.youtube.com/watch?v=N7gYYV98FO0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
